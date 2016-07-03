@@ -29,10 +29,6 @@
                     Margin="4"
                     Padding="12"
                     Click="Gc_Click" />
-            <Button x:Name="Sql"
-                    Content="Sql Call"
-                    Padding="12"
-                    Margin="4"/>
         </StackPanel >
     </Grid>
 </Window>
