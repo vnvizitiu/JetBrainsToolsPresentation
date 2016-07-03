@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/images/JetBrainPresentation/.vs/JetBrainPresentation/v14/.suo
+*.suo
+/JetBrainPresentation/ProfilingExample/bin/Debug
+/JetBrainPresentation/ProfilingExample/obj/Debug
